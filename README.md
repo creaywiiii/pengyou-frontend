@@ -4,7 +4,7 @@
 - 项目目标：通过不同的社区吸引有不同爱好的人来一起交流，聊天，成为朋友，帮助找到与自己性情匹配的伙伴
 - 团队成员：Napbad
 
-backend: [https://github.com/Napbad/pengyou-backend]
+[go to backend project](https://github.com/Napbad/pengyou-backend)
 
 ## 项目需求分析
 
